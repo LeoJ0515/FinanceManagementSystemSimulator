@@ -6,6 +6,7 @@ This project is built as a static demo to visualise income, expenses, and basic 
 > **Note:** This is a **simulator** only. No real financial transactions are processed; all data is mock and client-side.
 
 ---
+[LIVE DEMO](https://leoj0515.github.io/FinanceManagementSystemSimulator/)
 <img width="2880" height="1374" alt="image" src="https://github.com/user-attachments/assets/d6620d6f-22f4-4c27-aaf7-5dd088f3f14f" />
 
 
