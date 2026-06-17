@@ -7,6 +7,7 @@ This project is built as a static demo to visualise income, expenses, and basic 
 
 ---
 
+
 ## Features
 
 - **Dashboard overview** – quick glance at total balance, income, and expenses.
@@ -27,4 +28,5 @@ This project is built as a static demo to visualise income, expenses, and basic 
 
 1. Place the project folder inside your web server’s root directory (e.g., `C:\xampp\htdocs\FinanceGo`).
 2. Start Apache (or your chosen server).
-3. Open your browser and navigate to:
+3. Open your browser and navigate to: http://localhost/FinanceGo/index.html
+
